@@ -13,7 +13,7 @@ Writing in a notebook, so you never forget your schedule?
 This application remind your schedule very simply.  
 
 妻の誕生日を忘れて怒られたことはないですか？  
-手帳に書いているから絶対に忘れない？
+手帳に書いているから絶対に忘れない？  
 このアプリはあなたの予定を思い出させてくれます。
 
 ## Demo
