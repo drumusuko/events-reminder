@@ -1,23 +1,15 @@
-events-reminder
+イベントリマインダー（仮名）
 ====
 
-simple events remind application.  
-Work on Android.  
-
 シンプルなリマインダーアプリ
-※なるべく英語に書き換えたい
 
 ## Description
-Have you ever been offended by forgetting your wife's birthday?  
-Writing in a notebook, so you never forget your schedule?  
-This application remind your schedule very simply.  
-
 妻の誕生日を忘れて怒られたことはないですか？  
 手帳に書いているから絶対に忘れない？  
 このアプリはあなたの予定を思い出させてくれます。  
 
-※カレンダー表示ではなく、  
-　純粋な残日数で直感的に予定がわかるスケジュールアプリ
+カレンダー表示ではなく、  
+純粋な残日数で直感的に予定がわかるスケジュールアプリ
 
 ## Demo
 画面を貼り付ける予定
